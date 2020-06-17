@@ -1,2 +1,2 @@
-# spark_machine_learning_exercise_telco
-Spark at databrick exercise - Machine Learning
+# Spark EDA and Machine Learning Exercise
+All ipybn notebooks are run at databrick by using community edition
